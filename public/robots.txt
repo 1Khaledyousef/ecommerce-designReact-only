@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+I start in 2/8/2023
+fisrt phase setup the design
+
